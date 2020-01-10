@@ -50,3 +50,9 @@ body
     background: white;
     padding: 1em;
 }
+#space
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
