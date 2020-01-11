@@ -10,6 +10,8 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy(anita)
 * Creado por el increible platzi team
+* incluye ejemplos en windows y Mac
+* Disponible para todas las edades
 ## Lo mejor
 * Cuando comiences el curso veras que es apasionante y bastante interesante
 
